@@ -1,0 +1,16 @@
+#headofbody {
+                background-color:rgb(145, 112, 142);
+                color: white;
+
+            }
+#bottomofbody {
+                color: white;
+                background-color:rgb(145, 112, 142);
+                padding: 10px;
+                border: 3px solid;
+                height: 15px;
+                  
+            }
+a           {
+                text-decoration: none;
+            }
