@@ -40,9 +40,8 @@ a:visited     {
 table {
     border-spacing: 0ch;
 }
-
-.img {
+.img2 {
     position: absolute;
-    left: 15px;
-    top: 10px;
+    top: 160px;
+    right: 120px;
 }
