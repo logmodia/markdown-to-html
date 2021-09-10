@@ -1,6 +1,7 @@
 #headofbody {
                 background-color:rgb(145, 112, 142);
                 color: white;
+                text-align: center;
 
             }
 #bottomofbody {
@@ -9,8 +10,39 @@
                 padding: 10px;
                 border: 3px solid;
                 height: 15px;
+                text-align: center;
                   
             }
 a           {
                 text-decoration: none;
+                color: white;
             }
+a:visited     {
+                text-decoration: none;
+                color: beige;
+            }
+
+#maindiv {      
+                margin-top: 3px;
+                background-color: white; 
+                width: 1515px;
+                display: table;
+        }
+                
+#container1 {
+                position: relative;
+                left: 80px;
+                padding: 30px;
+				background-color: wheat;
+                width: 1300px;
+                
+              }
+table {
+    border-spacing: 0ch;
+}
+
+.img {
+    position: absolute;
+    left: 15px;
+    top: 10px;
+}
